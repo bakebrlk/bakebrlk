@@ -31,9 +31,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][linkedin]
 
-
-<br />
-
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />][linkedin]
 
