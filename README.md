@@ -22,6 +22,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][linkedin]
+[<img align="left" alt="swift" width="26px" src="https://github.com/github/explore/blob/main/topics/swift/swift.png" />][linkedin]
 [<img align="left" alt="Apple" width="26px" src="https://github.com/github/explore/blob/main/topics/apple/apple.png" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png" />][linkedin]
