@@ -22,7 +22,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][linkedin]
-[<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />][linkedin]
+[<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/apple/apple.png" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="React" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png" />][linkedin]
 [<img align="left" alt="React Native" width="26px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png" />][linkedin]
