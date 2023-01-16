@@ -67,14 +67,14 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-        <a href="https://github.com/selver96">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selver96&theme=light&hide_langs_below=1" />
+        <a href="https://github.com/bake08">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake08&theme=light&hide_langs_below=1" />
         </a>
 </details>
 <details>
   <summary>:zap: Selver's github stats</summary>  
-      <a href="https://github.com/selver96">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=selver96&show_icons=true&theme=light&line_height=27" alt="Selver's github stats"/>
+      <a href="https://github.com/bake08">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bake08&show_icons=true&theme=light&line_height=27" alt="Bekzat's github stats"/>
 </a>
 </details>
 
