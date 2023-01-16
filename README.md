@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Meet with more people and improve myself in software engineering.
 - 🌱 I’m currently learning more about TypeScript, JavaScript, Python, ReactJs.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/selver-said-38812b1b3/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
 - ⚡ Fun fact: I spend almost 3 hours reading book and playing guitar everyday.
 
 ### Connect with me:
@@ -83,5 +83,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/selver-said-38812b1b3/
-[vueproject]: https://github.com/selver96/CRM/
+[linkedin]: https://www.linkedin.com/in/bekzat-birlik-4b5611262/
