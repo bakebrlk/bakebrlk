@@ -1,6 +1,6 @@
-### Hi there, I'm Selver 👋
+### Hi there, I'm Bekzat 👋
 
-## I'm a Software Engineer, And I'm Always A Student!!!
+## I'm student and I'm studing at Software Engineer, And I'm Always A Student!!!
 <!-- - 🔭 I’m currently working on [](). -->
 
 - 🌱 I’m currently learning everything
