@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about Swift, Mobile developing. 
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
-- ⚡ Fun fact: I spend almost 3 hours reading book and playing ping pong everyday.
+- ⚡ Fun fact: I spend almost 2 hours reading book and playing ping pong everyday.
 
 ### Connect with me:
 
