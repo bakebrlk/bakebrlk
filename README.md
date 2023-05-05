@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Meet with more people and improve myself in software engineering.
+- 🥅 2023 Goals: Meet with more people and improve myself in software engineering.
 - 🌱 I’m currently learning more about Swift, Java, Mobile developing. 
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
