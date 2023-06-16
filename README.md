@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at IOS development, And I'm Always A Student!</h3>
 
+- 🔭 I’m currently learning **everything**
+
+- 🌱 I’m currently learning more **Swift, UIKit, SwiftUI, SnapKit.**
+
+- 👯 I’m looking to collaborate **with other developers**
+
+- 🥅 2023 Goals: **Meet with more people and improve myself in IOS development.**
+
 - 📫 How to reach me [https://www.linkedin.com/in/bekzat-birlik-4b5611262/](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
+
+- 💬 Ask me about any tech **related stuff.**
 
 - ⚡ Fun fact **I spend almost 2 hours reading book and playing ping pong**
 
