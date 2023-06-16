@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.tenor.com/1VWpR_tdSOoAAAAi/game-changer-game-changers.gif])]([https://tenor.com/ru/view/game-changer-game-changers-no-code-nocode-no-code-sticker-gif-15372379029724023018](https://media.tenor.com/1VWpR_tdSOoAAAAi/game-changer-game-changers.gif))
+[![MasterHead](https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif)]
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at IOS development, And I'm Always A Student!</h3>
