@@ -1,4 +1,4 @@
-[![MasterHead](https://imgly-blog-prod.storage.googleapis.com/2022/05/animate-gif-in-Swift.png)](https://imgly-blog-prod.storage.googleapis.com/2022/05/animate-gif-in-Swift.png)
+[![MasterHead](https://imgly-blog-prod.storage.googleapis.com/2022/05/animate-gif-in-Swift.png)]([https://imgly-blog-prod.storage.googleapis.com/2022/05/animate-gif-in-Swift.png](https://imgly-blog-prod.storage.googleapis.com/2022/05/animate-gif-in-Swift.png))
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at IOS development, And I'm Always A Student!</h3>
