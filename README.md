@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/5eKX.gif)](https://i.gifer.com/5eKX.gif)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEK-fA2zoU7mA/profile-displaybackgroundimage-shrink_350_1400/0/1680160520774?e=1692230400&v=beta&t=Sx2ZGzMak04MXwlIAzLgSWkzAbg3rVe-mDxpMImOmkU)](https://media.licdn.com/dms/image/D4D16AQEK-fA2zoU7mA/profile-displaybackgroundimage-shrink_350_1400/0/1680160520774?e=1692230400&v=beta&t=Sx2ZGzMak04MXwlIAzLgSWkzAbg3rVe-mDxpMImOmkU)
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at IOS development, And I'm Always A Student!</h3>
