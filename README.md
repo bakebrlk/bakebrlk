@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/bekzat-birlik-4b5611262/](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
 
-- 💬 Ask me about any tech **related stuff.**
+- 💬 Ask me about any tech related stuff.
 
 - ⚡ Fun fact **I spend almost 2 hours reading book and playing ping pong**
 
