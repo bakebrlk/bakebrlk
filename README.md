@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif)](https://timelinecovers.pro/facebook-cover/download/business-software-coding-screen-facebook-cover.jpg)
+[![MasterHead](https://timelinecovers.pro/facebook-cover/download/business-software-coding-screen-facebook-cover.jpg)](https://timelinecovers.pro/facebook-cover/download/business-software-coding-screen-facebook-cover.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at IOS development, And I'm Always A Student!</h3>
