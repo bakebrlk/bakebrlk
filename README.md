@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEK-fA2zoU7mA/profile-displaybackgroundimage-shrink_350_1400/0/1680160520774?e=1692230400&v=beta&t=Sx2ZGzMak04MXwlIAzLgSWkzAbg3rVe-mDxpMImOmkU)](https://media.licdn.com/dms/image/D4D16AQEK-fA2zoU7mA/profile-displaybackgroundimage-shrink_350_1400/0/1680160520774?e=1692230400&v=beta&t=Sx2ZGzMak04MXwlIAzLgSWkzAbg3rVe-mDxpMImOmkU)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at iOS development, And I'm Always A Student!</h3>
