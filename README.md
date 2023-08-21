@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-618-years-of-big-and-big-cool-neon-effect-digital-picture-image_1062812.jpg)
+![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-illustration-image_458703.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at iOS development, And I'm Always A Student!</h3>
