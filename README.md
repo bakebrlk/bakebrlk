@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🥅 2023 Goals: **Meet with more people and improve myself in IOS development.**
+- 🥅 2023 Goals: **Meet with more people and improve myself in iOS development.**
 
 - 📫 How to reach me [https://www.linkedin.com/in/bekzat-birlik-4b5611262/](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
 
