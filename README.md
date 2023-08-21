@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20210715/original/pngtree-communication-technology-blue-and-red-background-design-picture-image_1260713.jpg)
+![MasterHead](https://png.pngtree.com/background/20211215/original/pngtree-simple-technology-poster-banner-background-picture-image_1463318.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">I'm student and I'm studing at iOS development, And I'm Always A Student!</h3>
