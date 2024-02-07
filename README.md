@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🥅 2023 Goals: **Meet with more people and improve myself in iOS development.**
+- 🥅 2024 Goals: **Meet with more people and improve myself in iOS development.**
 
 - 📫 How to reach me [https://www.linkedin.com/in/bekzat-birlik-4b5611262/](https://www.linkedin.com/in/bekzat-birlik-4b5611262/)
 
 - 💬 Ask me about any tech related stuff.
 
-- ⚡ Fun fact **I spend almost 2 hours reading book and playing ping pong**
+- ⚡ Fun fact **I spend almost reading book and playing ping pong**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
